@@ -10,7 +10,8 @@ function AtiBotaoNext() {
         <div className="flex justify-center pt-8">
         
             <div className="p-4 ">
-                <p className='text-gray-700 p-2 font-normal'>Vamos conhecer os conteúdos de Matemática a serem trabalhados nesta etapa?</p>
+                <Divider className="max-w-7xl mx-auto py-4" />
+                <p className='text-gray-700 p-2 font-normal text-lg pt-8'>Vamos conhecer os conteúdos de Matemática a serem trabalhados nesta etapa?</p>
                 <div className="flex justify-center py-4">
                   <Link href="/matematica">
                   <button className="btn btn-primary text-white">Matemática e Educação Financeira</button>

@@ -13,7 +13,7 @@ const AtiPlanejamento = () => {
         </h2>
         <div className="grid gap-x-6 md:grid-cols-3 lg:gap-x-12">
           <div className="mb-4 md:mb-0">
-            <div className="mb-6 inline-block rounded-full bg-gradient-to-tl from-primary-focus to-primary p-4 text-primary">
+            <div className="mb-6 inline-block rounded-full bg-red-400 p-4 text-primary">
               <PiChalkboardTeacher className="h-8 w-8 text-white" />
             </div>
             
@@ -23,7 +23,7 @@ const AtiPlanejamento = () => {
           </div>
 
           <div className="mb-4 md:mb-0">
-            <div className="mb-6 inline-block rounded-full bg-gradient-to-tl from-primary-focus to-primary p-4 text-primary">
+            <div className="mb-6 inline-block rounded-full bg-red-400 p-4 text-primary">
               <PiMathOperationsFill className="h-8 w-8 text-white" />
             </div>
             
@@ -33,7 +33,7 @@ const AtiPlanejamento = () => {
           </div>
 
           <div className="mb-4 md:mb-0">
-            <div className="mb-6 inline-block rounded-full bg-gradient-to-tl from-primary-focus to-primary p-4 text-primary">
+            <div className="mb-6 inline-block rounded-full bg-red-400  p-4 text-primary">
               <MdOutlineSafetyDivider className="h-8 w-8 text-white" />
             </div>
             
