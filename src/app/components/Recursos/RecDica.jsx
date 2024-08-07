@@ -9,7 +9,7 @@ function RecDica() {
                 
                 </p>
                 <p className='py-2'>
-                    Pode ser interessante, ao trabalhar a construção de narrativas para o podcast, apresentar a técnica do storytelling. Saiba mais clicando <a href="https://www.youtube.com/watch?v=idcZz7FdYto" target="_blank" rel="noopener noreferrer" className="underline text-blue-700 hover:text-purple-900"> aqui </a>{' '}, <a href="https://www.google.com/url?q=https%3A%2F%2Frockcontent.com%2Fbr%2Ftalent-blog%2Fstorytelling%2F&sa=D&sntz=1&usg=AOvVaw0jK_5liHG9C9ftBKtEefiC" target="_blank" rel="noopener noreferrer" className="underline text-blue-700 hover:text-purple-900"> aqui </a>{' '} e <a href="https://www.google.com/url?q=https%3A%2F%2Fendeavor.org.br%2Fmarketing%2Fstorytelling%2F&sa=D&sntz=1&usg=AOvVaw2LlmvuK0AtgTQRIxYu6lE_" target="_blank" rel="noopener noreferrer" className="underline text-blue-700 hover:text-purple-900">aqui </a>{' '}.
+                    Pode ser interessante, ao trabalhar a construção de narrativas para o podcast, apresentar a técnica do storytelling. Saiba mais clicando  <a href="https://www.google.com/url?q=https%3A%2F%2Frockcontent.com%2Fbr%2Ftalent-blog%2Fstorytelling%2F&sa=D&sntz=1&usg=AOvVaw0jK_5liHG9C9ftBKtEefiC" target="_blank" rel="noopener noreferrer" className="underline text-blue-700 hover:text-purple-900"> aqui </a>{' '} e <a href="https://www.google.com/url?q=https%3A%2F%2Fendeavor.org.br%2Fmarketing%2Fstorytelling%2F&sa=D&sntz=1&usg=AOvVaw2LlmvuK0AtgTQRIxYu6lE_" target="_blank" rel="noopener noreferrer" className="underline text-blue-700 hover:text-purple-900">aqui </a>{' '}.
 
                 </p>
               </div>
